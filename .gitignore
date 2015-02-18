@@ -11,3 +11,6 @@ log/*.log
 .bundle
 rspec.log
 /_site
+/*.iml
+/.generators
+/.rakeTasks
